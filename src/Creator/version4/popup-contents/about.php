@@ -10,7 +10,7 @@
     <tr align="center">
         <td>
             Eclipse Phase Character Creator<br>
-            <small><a href="https://github.com/rbewley4/ep-character-creator/releases/tag/v1.2.0" target="_blank">Version 1.2.0 (09.2014)<a/></small>
+            <small><a href="https://github.com/rbewley4/ep-character-creator/releases/tag/v1.2.0" target="_blank">Version 1.2.1 (07.2015)<a/></small>
             <br><br>
             A character creator for the <a href="http://eclipsephase.com" target="_blank">Eclipse Phase</a> role-playing game.
             <br><br>
@@ -23,9 +23,12 @@
     <tr align="center">
         <td>
         		<b>Russell Bewley</b><br>
+        		<b>Stoo Goof</b><br>
+        		<b>Derek Payne</b><br>
             <b>Cédric Reinhardt</b><br>
             <b>Jigé Pont</b><br>
             <b>Olivier Murith</b><br>
+            <b>Arthur Moore</b><br>
             <br>
             <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><small>  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small>
             <br><br>
